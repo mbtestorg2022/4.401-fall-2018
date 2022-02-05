@@ -51,11 +51,56 @@ The following deliverables will be required to pass this class:
 Grading
 -------
 
-| Activities | PERCENTAGES |
-| --- | --- |
-| Quality and timely submission of completed assignments | 45% |
-| Course project presentation | 30% |
-| AIA case study presentation | 15% |
-| Participation in class discussions | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quality and timely submission of completed assignments
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Course project presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AIA case study presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please familiarize yourself with MIT's [Academic Integrity Expectations](http://web.mit.edu/academicintegrity/).
