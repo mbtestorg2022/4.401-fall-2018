@@ -17,7 +17,7 @@ Slides are available for the following lectures:
 *   [Daylight Simulations | Daylight Availability Metrics | Characterizing Material ﻿(PDF - 4.8 MB)]({{< baseurl >}}/resources/mit4_401f18_lec9)
 *   [Visual Comfort ﻿(PDF - 5.7 MB)]({{< baseurl >}}/resources/mit4_401f18_lec10)
 *   [Electric Lighting | Controls | Occupant Behavior ﻿(PDF - 3.8 MB)]({{< baseurl >}}/resources/mit4_401f18_lec11)
-*   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Thermal Mass | Heat Flow I ﻿(PDF - 5.2 MB)]({{< baseurl >}}/resources/mit4_401f18_lec12)
+*   [Thermal Mass | Heat Flow I ﻿(PDF - 5.2 MB)]({{< baseurl >}}/resources/mit4_401f18_lec12)
 *   [Heat Flow II | Insulation Materials ﻿(PDF - 5.0 MB)]({{< baseurl >}}/resources/mit4_401f18_lec13)
 *   [Window Technologies | Shading ﻿(PDF - 4.6 MB)]({{< baseurl >}}/resources/mit4_401f18_lec14)
 *   [Ventilation ﻿(PDF - 4.0 MB﻿﻿)]({{< baseurl >}}/resources/mit4_401f18_lec15)

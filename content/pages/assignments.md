@@ -45,7 +45,7 @@ Friday of week 3
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Assignment 2: Shading Studies and Sun Path Diagrams (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment2)
+[Assignment 2: Shading Studies and Sun Path Diagrams (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment2)
 
 
 {{< tdclose >}}
@@ -62,7 +62,7 @@ Friday of week 4
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Assignment 3: Visual and Thermal Comfort (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment3)
+[Assignment 3: Visual and Thermal Comfort (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment3)
 
 
 {{< tdclose >}}
@@ -79,7 +79,7 @@ Friday of week 5
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Assignment 4: Designing a PV System (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment4)
+[Assignment 4: Designing a PV System (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment4)
 
 
 {{< tdclose >}}
@@ -113,7 +113,7 @@ Friday of week 8
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Assignment 6: Visual Comfort and Electric Lighting (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment6)
+[Assignment 6: Visual Comfort and Electric Lighting (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment6)
 
 
 {{< tdclose >}}
@@ -130,7 +130,7 @@ Friday of week 9
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Assignment 7: Energy Explorations (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment7)
+[Assignment 7: Energy Explorations (PDF)]({{< baseurl >}}/resources/mit4_401f18_assignment7)
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ Friday of week 10
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Assignment 8: Simulation Game Analysis (PDF - 1.5 MB)]({{< baseurl >}}/resources/mit4_401f18_assignment8)
+[Assignment 8: Simulation Game Analysis (PDF - 1.5 MB)]({{< baseurl >}}/resources/mit4_401f18_assignment8)
 
 
 {{< tdclose >}}
